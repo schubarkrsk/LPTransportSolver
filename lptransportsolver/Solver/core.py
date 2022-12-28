@@ -1,4 +1,4 @@
-# LPTransportSolver (C) Stanislav Chubar. 2022-2023 All rights reserved
+# lptransportsolver (C) Stanislav Chubar. 2022-2023 All rights reserved
 # def solve(a:list, b:list, prise:list) -> None:
 #     sum_a = sum(a)
 #     sum_b = sum(b)
